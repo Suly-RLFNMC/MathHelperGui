@@ -6,5 +6,5 @@ This Math Helper contains an Easy-to-use GUI where everything is properly labell
 
 <a href="buymeacoffee.com/_sulym" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-Sadly, Right Now I cannot make a native working version for Linux or Mac, instead I will upload a .NET project
+Sadly, Right Now I cannot make a native working version for Linux or Mac, instead you should download source code and compile yourself
 
